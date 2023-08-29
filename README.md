@@ -1,7 +1,6 @@
 # The Henry Stickmin Collection
 
 ## Important information
-NOTICE: THIS FILE IS NOT FROM THE GAME. THE CREATORS OF THE REPOSITORY MADE IT.
 
 The SWF files decompiled. Now they are folders.
 
